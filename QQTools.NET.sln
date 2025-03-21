@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QQTools.NET", "QQTools.NET\QQTools.NET.csproj", "{60E2AC1E-7B50-41BF-A267-57482954ABCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60E2AC1E-7B50-41BF-A267-57482954ABCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60E2AC1E-7B50-41BF-A267-57482954ABCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60E2AC1E-7B50-41BF-A267-57482954ABCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60E2AC1E-7B50-41BF-A267-57482954ABCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16051416-8CF1-49B7-A23A-BA0F89843BAF}
+	EndGlobalSection
+EndGlobal
