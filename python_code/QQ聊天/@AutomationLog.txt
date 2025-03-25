@@ -1,0 +1,53 @@
+2025-03-17 08:55:29.769 __init__.py[3] <module> -> Find Control Timeout(10s): {Name: '会话列表', ControlType: WindowControl}
+2025-03-17 09:01:01.860 __init__.py[3] <module> -> Find Control Timeout(10s): {Name: 'QQ', ControlType: WindowControl}
+2025-03-17 09:01:20.185 __init__.py[3] <module> -> Find Control Timeout(10s): {Name: 'QQ', ControlType: WindowControl}
+2025-03-17 09:01:35.432 __init__.py[3] <module> -> Find Control Timeout(10s): {Name: 'QQ', ControlType: WindowControl}
+2025-03-17 09:01:50.220 __init__.py[3] <module> -> Find Control Timeout(10s): {Name: 'QQ', ControlType: WindowControl}
+2025-03-17 09:06:22.017 __init__.py[11] <module> -> 2025-03-17 09:08:01.477 __init__.py[11] <module> -> 2025-03-17 09:08:50.592 __init__.py[11] <module> -> 2025-03-17 09:14:30.820 __init__.py[10] <module> -> 2025-03-17 09:29:14.078 __init__.py[12] <module> -> 2025-03-17 09:36:08.181 __init__.py[12] <module> -> 2025-03-17 10:01:00.149 __init__.py[5] <module> -> 2025-03-17 10:01:30.207 __init__.py[5] <module> -> 2025-03-17 10:02:40.202 __init__.py[5] <module> -> 2025-03-17 10:02:53.062 __init__.py[5] <module> -> 2025-03-17 10:04:46.224 __init__.py[6] <module> -> 2025-03-17 10:06:40.879 __init__.py[5] <module> -> 2025-03-17 10:08:35.978 __init__.py[5] <module> -> 2025-03-17 12:31:49.460 __init__.py[6] <module> -> Find Control Timeout: {ClassName: 'Chrome_WidgetWin_1', SubName: 'QQ', ControlType: WindowControl}
+2025-03-17 12:34:54.539 __init__.py[6] <module> -> Find Control Timeout: {ClassName: 'Chrome Legacy Window', ControlType: WindowControl}
+2025-03-17 12:46:59.577 __init__.py[15] <module> -> Find Control Timeout: {ControlType: ListControl}
+2025-03-17 12:47:34.067 __init__.py[15] <module> -> Find Control Timeout: {ControlType: ListControl}
+2025-03-17 12:49:09.447 __init__.py[14] <module> -> Find Control Timeout: {ClassName: 'Chrome_WidgetWin_1', Name: '黎贤齐', ControlType: WindowControl}
+2025-03-17 12:49:41.587 __init__.py[14] <module> -> Find Control Timeout: {ClassName: 'Chrome_WidgetWin_1', Name: '黎贤齐', ControlType: WindowControl}
+2025-03-17 13:18:29.968 __init__.py[22] <module> -> Find Control Timeout: {ControlType: EditControl}
+2025-03-17 13:18:57.680 __init__.py[22] <module> -> Find Control Timeout: {ControlType: EditControl}
+2025-03-17 13:19:40.744 __init__.py[22] <module> -> Find Control Timeout: {ControlType: EditControl}
+2025-03-17 13:20:18.731 __init__.py[22] <module> -> Find Control Timeout: {ControlType: EditControl}
+2025-03-17 13:21:29.118 __init__.py[22] <module> -> Find Control Timeout: {ControlType: EditControl}
+2025-03-17 13:24:24.967 __init__.py[22] <module> -> Find Control Timeout: {ControlType: EditControl}
+2025-03-17 13:25:00.897 __init__.py[20] <module> -> Find Control Timeout: {ControlType: EditControl}
+2025-03-17 13:27:49.884 __init__.py[26] <module> -> Find Control Timeout: {ControlType: EditControl}
+2025-03-17 13:31:03.701 __init__.py[26] <module> -> Find Control Timeout: {ControlType: EditControl}
+2025-03-17 13:31:25.236 __init__.py[22] <module> -> Find Control Timeout: {ControlType: EditControl}
+2025-03-17 13:33:53.564 __init__.py[9] <module> -> Find Control Timeout: {ControlType: EditControl}
+2025-03-17 13:34:56.395 __init__.py[6] <module> -> Find Control Timeout: {ClassName: 'RichEditD2DPT', ControlType: WindowControl}
+2025-03-17 13:36:18.312 __init__.py[9] <module> -> Find Control Timeout: {ControlType: EditControl}
+2025-03-17 13:39:27.240 __init__.py[6] <module> -> Find Control Timeout: {ClassName: 'RichEditD2DPT', ControlType: WindowControl}
+2025-03-17 13:44:21.820 __init__.py[6] <module> -> Find Control Timeout: {ClassName: 'ApplicationFrameWindow', Name: '记事本', ControlType: WindowControl}
+2025-03-17 13:45:11.187 __init__.py[13] <module> -> Find Control Timeout: {ClassName: 'RichEditD2DPT', Name: 'test.txt - 记事本', ControlType: WindowControl}
+2025-03-17 13:46:36.500 __init__.py[13] <module> -> Find Control Timeout: {ClassName: 'RichEditD2DPT', Name: 'test.txt - 记事本', ControlType: WindowControl}
+2025-03-17 13:49:27.635 __init__.py[9] <module> -> Find Control Timeout: {ControlType: EditControl}
+2025-03-17 13:57:46.414 __init__.py[9] <module> -> Find Control Timeout(10s): {ControlType: EditControl}
+2025-03-17 13:58:05.531 __init__.py[9] <module> -> Find Control Timeout(10s): {ControlType: EditControl}
+2025-03-17 13:59:34.836 __init__.py[6] <module> -> Find Control Timeout(10s): {ClassName: 'NotepadTextBox', ControlType: WindowControl}
+2025-03-17 14:02:00.652 __init__.py[6] <module> -> Find Control Timeout(10s): {ClassName: 'com.tencent.yuanbao-sic', ControlType: WindowControl}
+2025-03-17 14:08:13.341 __init__.py[6] <module> -> Find Control Timeout(10s): {ClassName: 'RichEditD2DPT', Name: '文本编辑器', ControlType: WindowControl}
+2025-03-17 14:11:13.409 __init__.py[16] <module> -> Find Control Timeout(10s): {ClassName: 'RichEditD2DPT', ControlType: DocumentControl}
+2025-03-17 14:11:59.490 __init__.py[16] <module> -> Find Control Timeout(10s): {ClassName: 'RichEditD2DPT', ControlType: DocumentControl}
+2025-03-17 14:12:14.033 __init__.py[16] <module> -> Find Control Timeout(10s): {ClassName: 'RichEditD2DPT', ControlType: DocumentControl}
+2025-03-17 14:12:59.108 __init__.py[12] print_control_tree -> Find Control Timeout(10s): {ClassName: 'Notepad', Name: 'test.txt - 记事本', ControlType: WindowControl}
+2025-03-17 14:21:57.287 __init__.py[26] <module> -> Find Control Timeout(10s): {ClassName: 'Chrome_WidgetWin_1', Name: 'QQ', ControlType: WindowControl}
+2025-03-17 14:25:30.731 __init__.py[33] <module> -> Find Control Timeout(10s): {Name: 'QQ', ClassName: 'Chrome_WidgetWin_1', ControlType: WindowControl}
+2025-03-17 14:26:03.098 __init__.py[33] <module> -> Find Control Timeout(10s): {Name: 'Chrome Legacy Window', ClassName: 'Chrome_RenderWidgetHostHWND', ControlType: WindowControl}
+2025-03-17 14:26:18.354 __init__.py[32] <module> -> Find Control Timeout(10s): {ClassName: 'Chrome_RenderWidgetHostHWND', ControlType: WindowControl}
+2025-03-17 22:06:01.393 __init__.py[37] <module> -> Find Control Timeout(10s): {FrameWorkId: 'Chrome', LoaclizedControlType: '组合框', ControlType: ComboBoxControl}
+2025-03-17 22:21:28.704 __init__.py[37] <module> -> Find Control Timeout(10s): {Name: '*彭存福*', FrameworkId: 'Chrome', ControlType: GroupControl}
+2025-03-17 22:43:06.692 __init__.py[15] <module> -> Find Control Timeout(10s): {ControlType: ButtonControl}
+2025-03-17 22:52:17.141 __init__.py[43] <module> -> Find Control Timeout(10s): {AutomationId: 'SunAwtFrame', ControlType: GroupControl}
+2025-03-17 23:29:22.261 __init__.py[24] <module> -> Find Control Timeout(10s): {ControlType: ComboBoxControl}
+2025-03-18 16:57:38.615 __init__.py[26] <module> -> Find Control Timeout(10s): {ControlType: ComboBoxControl}
+2025-03-18 17:52:45.610 __init__.py[87] show_qq -> Find Control Timeout(10s): {AutomationId: 'ml-root', ControlType: GroupControl}
+2025-03-23 11:53:12.301 test.py[14] <module> -> Find Control Timeout(10s): {ClassName: 'Chrome_WidgetWin_1', ControlType: WindowControl}
+2025-03-23 11:58:33.051 __init__.py[127] show_qq -> Find Control Timeout(10s): {AutomationId: 'Appid: QQ', ControlType: ButtonControl}
+2025-03-23 11:59:00.237 __init__.py[127] show_qq -> Find Control Timeout(10s): {AutomationId: 'Appid: QQ', ControlType: ButtonControl}
+2025-03-23 11:59:47.705 __init__.py[74] find_node -> Find Control Timeout(10s): {AutomationId: 'ml-root', ControlType: GroupControl}
